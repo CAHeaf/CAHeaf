@@ -24,8 +24,17 @@
 <hr>
 
 <h3>Language Breakdown! :)</h3>
-<!--[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=CAHeaf)](https://github.com/yushi1007)-->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAHeaf&layout=compact)](https://github.com/yushi1007)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CAHeaf&theme=dark">
+  <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=CAHeaf&theme=default">
+</picture>
+</a><br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CAHeaf&layout=compact&theme=dark">
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAHeaf&layout=compact&theme=dark">
+</picture>
+</a>
 <p>I will get more js in there i promise</p>
 <hr>
