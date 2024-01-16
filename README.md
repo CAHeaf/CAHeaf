@@ -36,5 +36,4 @@
   <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAHeaf&layout=compact&theme=dark">
 </picture>
 </a>
-<p>I will get more js in there i promise</p>
 <hr>
